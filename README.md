@@ -57,7 +57,7 @@
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/yourusername/codemaster-assistant.git
+git clone https://github.com/banhanman/CodeMaster-Assistant
 cd codemaster-assistant
 
 # 2. Установить зависимости
